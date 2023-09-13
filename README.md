@@ -8,6 +8,7 @@
 ### :woman_technologist: About Me :
 <h3 align="center">I'm from VietNam</h3>
 <p align="center">I am a second-year student majoring in information technology at Vietnam Aviation Academy<p>
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
